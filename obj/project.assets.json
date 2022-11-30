@@ -8,12 +8,17 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\surap\\.nuget\\packages\\": {}
+>>>>>>> Backdoor
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MDT211\\Project_code\\Project_code.csproj",
       "projectName": "Project_code",
       "projectPath": "E:\\MDT211\\Project_code\\Project_code.csproj",
@@ -26,6 +31,16 @@
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Users\\surap\\Desktop\\codefinish\\codefinish.csproj",
+      "projectName": "codefinish",
+      "projectPath": "C:\\Users\\surap\\Desktop\\codefinish\\codefinish.csproj",
+      "packagesPath": "C:\\Users\\surap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\surap\\Desktop\\codefinish\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\surap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Backdoor
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,8 +71,12 @@
           "net47",
           "net471",
           "net472",
+<<<<<<< HEAD
           "net48",
           "net481"
+=======
+          "net48"
+>>>>>>> Backdoor
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -66,7 +85,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> Backdoor
       }
     }
   }
